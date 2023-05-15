@@ -1,30 +1,14 @@
-# ![4Geeks Logo](http://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=4geeks,16) HTML Hello
+Formulario de Pago --> 
+Este es un ejemplo de un formulario de pago simple creado utilizando HTML y Bootstrap. El formulario recopila información básica para procesar un pago, como el número de tarjeta de crédito, el código CVC, el monto y los detalles del cliente. A continuación se muestra el código HTML utilizado para crear el formulario.
 
-The most basic boilerplate for any 4Geeks Academy student, start your very first website from scratch.
+![image](https://github.com/Toni369-vs/form-html/assets/125910370/ba9ff414-e993-44e9-bd82-bfb00e23bf0f)
 
-> There is a view tutorial on [how to use this template to create your very first website here](https://youtu.be/dfbDCMu_p-0).
 
-## What to do next?
 
-Create an `index.html` file with the [basic HTML structure](http://4geeks.com/lesson/what-is-html-learn-html#page-structure) and see it live by running a web-server using the following command:
+Bootstrap --> Una biblioteca de componentes y estilos CSS para el desarrollo web.
+Font Awesome --> Una biblioteca de iconos vectoriales.
 
-```sh
-$ pip3 install flask && python3 server.py
-```
+Notas -->
+Este formulario de ejemplo no realiza ninguna acción real de procesamiento de pagos. Solo recopila la información del formulario.
+Asegúrate de implementar la lógica de validación y seguridad necesaria antes de utilizar este formulario en un entorno de producción.
 
-- You can create as many HTML files as you want
-- You can also create CSS files and import them into your website using a `<link>` tag placed between the `<head></head>` tags, like this:
-
-```html
-<head>
-  ...
-  <link rel="stylesheet" type="text/css" href="styles.css">
-  ...
-</head>
-```
-
-### Contributors
-
-This template was built as part of the [Full Stack Developer course](https://4geeksacademy.com/us/coding-bootcamps/part-time-full-stack-developer) at [4Geeks Academy Coding Bootcamp](https://4geeksacademy.com/us/coding-bootcamp) by [Alejandro Sanchez](https://twitter.com/alesanchezr) and [many other contributors](https://github.com/4GeeksAcademy/html-hello/graphs/contributors).
-
-You can find other templates and resources like this at the [school github page](https://github.com/4geeksacademy/).
